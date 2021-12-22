@@ -38,6 +38,7 @@ Publish the website in the given URL.
 
 
 ### Home Page:
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -78,10 +79,10 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
-
+```
 
 ### PRODUCT PAGE:
-
+```
 
 <!DOCTYPE html>
 <html lang="en">
@@ -190,11 +191,11 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
-
+```
 
 
 ### PEOPLE PAGE:
-
+```
 
 
 <!DOCTYPE html>
@@ -263,11 +264,11 @@ Publish the website in the given URL.
                             <div class="itemname">Tokyo</div>
                             <div class="itemname">General Manager(GM)</div>
                             </div>
-
+```
 
 
 ### CONTACT US PAGE:
-
+```
 
 <!DOCTYPE html>
 <html lang="en">
@@ -307,6 +308,7 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
+```
 
 ## OUTPUT:
 
@@ -321,7 +323,7 @@ Publish the website in the given URL.
 
 ### HTML VALIDATOR:
 
-![output](./images/VALI.png)
+![output](./images/vali.png)
 
 
 
